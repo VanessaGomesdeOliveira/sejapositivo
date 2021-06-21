@@ -1,9 +1,9 @@
 Projeto Front End 1 (Digital House)
 
 Solicitação:
-1-  Para o menu suspenso, você deverá usar uma cor de fundo à sua escolha.
-2- O header precisa ter no mínimo um padding de 25px(pode fazer maior se precisar.
-3- As opções do menu suspenso precisam estar alinhadas corretamente.
+<br>1-  Para o menu suspenso, você deverá usar uma cor de fundo à sua escolha.
+<br>2- O header precisa ter no mínimo um padding de 25px(pode fazer maior se precisar.
+<br>3- As opções do menu suspenso precisam estar alinhadas corretamente.
 4- As opções do menu precisam ter uma borda envolvendo o seu conteúdo.
 5- O menu precisa estar fixo no topo da página.
 7- Use uma imagem como banner, o mesmo deve ocupar uma largura de 100%
@@ -17,3 +17,5 @@ Solicitação:
 15- Clone o repositório na sua máquina
 16- Faça hospedagem no git pages
 17-Disponibilize o link no canal proj-front até a nossa próxima aula
+
+https://vanessagomesdeoliveira.github.io/sejapositivo/
