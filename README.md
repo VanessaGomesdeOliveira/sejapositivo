@@ -1,4 +1,4 @@
-<bold>Projeto Front End 1 (Digital House)
+Projeto Front End 1 (Digital House)
 
 Solicitação:
 <br>1-  Para o menu suspenso, você deverá usar uma cor de fundo à sua escolha.
